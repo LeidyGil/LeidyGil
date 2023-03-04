@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**LeidyGil/LeidyGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Leidy Gil
 
-Here are some ideas to get you started:
+I am a Systems Engineer with 10+ years of experience as a Quality Assurance Analyst/Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been working with Web, Mobile, standalone applications, APIs and Databases.
+
+I am from Colombia, living around the world because I love traveling, sharing my knowledge and spend time learning and talking about different cultures.
+
+- 🔭 I’m currently working on Quality process/Assurance and as a QA Mentor
+- 🌱 I’m currently learning about Javascript and improving my technical skills.
+
+## These are 5 terminal's commands
+
+| Command | Description                     |
+| --------|---------------------------------|
+|  ls     | List of content                 |
+|  pwd    | Print current working directory | 
+|  cd     | Change current directory        |
+|  cp-r   | Copy - recursive                |
+|  mv     | Move/rename files               |   
+
+## These are my 2 alias most used
+
+| Alias            | Description                         |
+| -----------------|-------------------------------------|
+| alias ..='cd ..' | It allows move to the previous path |
+| alias c='clear'  | Clear the terminal                  | 
+
