@@ -9,7 +9,7 @@ I have been working with Web, Mobile, standalone applications, APIs and Database
 I am from Colombia, living around the world because I love traveling, sharing my knowledge and spend time learning and talking about different cultures.
 
 - 🔭 I’m currently working on Quality process/Assurance and as a QA Mentor
-- 🌱 I’m currently learning programming/automation and improving my technical skills.
+- 🌱 I’m currently learning about programming/automation and improving my technical skills.
 
 ## These are 5 terminal's commands
 
